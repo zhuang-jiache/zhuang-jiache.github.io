@@ -1,0 +1,68 @@
+.STYLE1 {
+    font-weight: bolder;
+    font-size: 20pt;
+    color: black;
+}
+
+.STYLE2 {
+    color: #000000;
+    font-size: 16px;
+}
+
+.STYLE4 {
+    font-size: 14px
+}
+
+.STYLE3 {
+    font-size: 18px;
+    font-weight: normal;
+    color: grey;
+}
+
+.STYLE5 {
+    font-size: 18px;
+    color: grey;
+
+}
+
+.STYLE6 {
+    font-size: 18px;
+    font-weight: normal;
+    color: black;
+}
+
+.li_1 a {
+    font-size: 10px;
+    color: #dcdcdc;
+}
+table,th,td {
+    /*border: 2px solid grey;*/
+    border-collapse: collapse;
+    padding-left: 5pt;
+    margin-left: 30pt;
+    text-align: center;
+
+}
+th {
+    background-color: #CC9999;
+    color: white;
+    height: 50pt;
+    border-width: 1px;
+    font-size: 13pt;
+    font-weight: bolder;
+
+}
+td {
+    height: 35pt;
+    text-align: center;
+
+}
+tr.even {
+    background-color: #f5f5f5;
+    font-size: 11pt;
+
+}
+
+tr.odd {
+    font-size: 11pt;
+}

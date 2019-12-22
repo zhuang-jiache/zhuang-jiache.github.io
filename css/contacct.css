@@ -1,0 +1,70 @@
+.STYLE7 {
+    font-weight: bolder;
+    font-size: 20pt;
+    color: black;
+}
+
+.STYLE5 {
+    font-weight: normal;
+    font-size: 13pt;
+    color: black;
+}
+
+.STYLE6 {
+    font-size: 14pt;
+    color: black;
+    font-weight: bold;
+
+}
+
+
+.li_1 a {
+    font-size: 10px;
+    color: #dcdcdc;
+}
+
+
+.box-margin {
+    max-width: 880px;
+    margin: 0 auto;
+}
+
+hr {
+    border: 0.5px solid #FFF;
+}
+
+
+#big-box {
+    display: block;
+    width: 900px;
+    height: 210px;
+    margin: auto;
+    background-color: #f5f5f5;
+}
+
+#left {
+    margin-left: 140px;
+    text-align: center;
+    height: 250px;
+    width: 175px;
+    float: left;
+}
+
+#main {
+    height: 250px;
+    width: 250px;
+    margin-left: auto;
+
+    margin-right: auto;
+    text-align: center;
+
+}
+
+#right {
+    margin-right: 130px;
+    margin-top: -250px;
+    height: 250px;
+    width: 175px;
+    float: right;
+    text-align: center;
+}

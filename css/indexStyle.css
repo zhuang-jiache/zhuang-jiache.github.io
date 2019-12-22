@@ -1,0 +1,93 @@
+#big-box {
+    display: block;
+    width: 1170px;
+    position: relative;
+    margin: 0 auto;
+    height: 250px;
+    text-align: center;
+    padding: 2em 15px 3em;
+}
+
+#header {
+    padding: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/*#left {*/
+    /*margin-left: 10px;*/
+    /*text-align: center;*/
+    /*height: 250px;*/
+    /*width: 175px;*/
+    /*float: left;*/
+/*}*/
+
+/*#main {*/
+    /*height: 250px;*/
+    /*width: 250px;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*text-align: center;*/
+/*}*/
+
+/*#right {*/
+    /*margin-right: 10px;*/
+    /*margin-top: -250px;*/
+    /*height: 250px;*/
+    /*width: 175px;*/
+    /*float: right;*/
+    /*text-align: center;*/
+/*}*/
+
+#footer {
+    background: black;
+    margin-top: 10px;
+    text-align: center;
+    clear: both;
+    height: 80px;
+}
+a.myStyle2{
+    color: black;
+    font-weight: normal;
+    text-decoration-line: none;
+}
+a.myStyle2:link {
+    color: black;
+    font-weight: normal;
+    text-decoration-line: none;
+}
+a.myStyle2:hover {
+    color: black;
+    font-weight: bold;
+    /*text-decoration-line: underline;*/
+}
+a.myStyle2:active {
+    color: #660000;
+    background-color: #663300;
+    font-weight: bolder;
+    text-decoration-line: none;
+}
+a.myStyle2:visited {
+    color: #005555;
+    font-weight: normal;
+    text-decoration-line: none;
+}
+.index-self-item:hover{
+    box-shadow: 0 0 5px 2px #eaeaea;
+    transform: translate(-4px,-6px);
+}
+.index-self-item{
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    padding: 16px 14px;
+}
+.index-self-item .img-box{
+    width: 65px;
+    height: 65px;
+    text-align: center;
+    position: relative;
+    margin:  0 auto;
+}

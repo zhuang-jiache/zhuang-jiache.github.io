@@ -1,0 +1,54 @@
+.STYLE1 {
+    font-weight: normal;
+    font-size: 12pt;
+    color: black;
+}
+.STYLE2 {
+    font-weight: bolder;
+    font-size: 20pt;
+    color: black;
+}
+.STYLE3 {
+    font-size: 12pt;
+    color: grey;
+}
+.li_1 a {
+    font-size: 10px;
+    color: #dcdcdc;
+}
+.t1 {
+    margin-top: 240px;
+    margin-left: 250px;
+    height: 290px;
+    width: 420px;
+}
+.s1 {
+    margin: -200px auto;
+    width: 400px;
+    font-size: 28pt;
+    padding-left: 40pt;
+}
+.banner-text-w3ls {
+    height: 550px;
+    background-image: url("../images/zhizhubg.jpg");
+}
+
+.banner-text-w3ls ul {
+    margin-top: -70px;
+    margin-left: 750px;
+}
+.video-area{
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    margin: 0 auto;
+    clear: both;
+    width: 100%;
+}
+.video-area .video-item{
+
+    display: inline-block;
+    position: relative;
+    width: 220px;
+    padding: 8px 10px;
+}
